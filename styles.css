@@ -1,0 +1,18 @@
+.top {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+    margin-right: 1%;
+    float: right;
+    margin-top: 1%;
+}
+
+.top:hover {
+    text-decoration: underline;
+}
+
+.profile {
+    float:right;
+    height: 40px;
+    width: 40px;
+    border-radius: 1000px;
+}
