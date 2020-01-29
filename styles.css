@@ -1,9 +1,10 @@
 .top {
     color: rgba(0,0,0,0.87);
     text-decoration: none;
-    margin-right: 1%;
+    margin-right: 2%;
     float: right;
     margin-top: 1%;
+    font-size: 13px;
 }
 
 .top:hover {
@@ -22,4 +23,30 @@
     width: 325px;
     margin-left: 34%;
     margin-top: 9%;
+}
+
+.search {
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    height: 44px;
+    width: 561px;
+    margin-left: 22%;
+    border-radius: 22px;
+}
+
+.search_icon {
+    height: 15px;
+    padding-top: 2.5%;
+    padding-left: 3%;
+    opacity: 0.5;
+}
+
+.mic {
+    height: 15px;
+    padding-top: 2.5%;
+    padding-right: 3%;
+    padding-left: 90%;
+}
+
+body {
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
 }
